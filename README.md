@@ -1,17 +1,17 @@
 # speak
 
-A new Flutter application.
+Speak is a Flutter Application to promote recycling in the community of Singapore.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Please download the file and run it in on Android Studio.
 
-A few resources to get you started if this is your first Flutter project:
+Kindly Please use a Windows laptop.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Use an Android Emulator to run this project.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# Speak" 
+The app is not yet tested on an IOS device.
+
+Please navigate to the Google Photo link for the pictures : https://photos.app.goo.gl/JY1DyFLFSMisogab8
+
+Currently we are working on the edit and delete option in the Feed Section
