@@ -21,6 +21,7 @@ After running the code, user will be navigated to the login page( for existing u
 In Singapore, waste management is a big issue. Most of the people don't know which item to dispose/ recycle or reuse. People don't know the nearest recycling centers. Some people like to throw bulky items like furniture in the corridor of the apartments as trash in-spite of it having only about 1% damage. To the person who dispose the item, it might be useless but there are certain people and family who might need that thing.
 
 #### Solution
+
 In order to reduce the waste and promote awarness on reduction of waste, I have developed a Flutter Application. Some of the features in my app include:
 
 Those who want to donate the bulky items, can post it in the app. After that other user who might need the product can see it from the app and contact the person.
