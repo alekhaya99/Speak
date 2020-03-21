@@ -1,0 +1,3 @@
+0 Organic
+1 Recycle
+2 Reuse

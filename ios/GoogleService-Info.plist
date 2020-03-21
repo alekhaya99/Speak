@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>39818828065-dqdurmt8d5sjln81bm6efnhranhbbtlv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.39818828065-dqdurmt8d5sjln81bm6efnhranhbbtlv</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>39818828065-q0dile5nbaa5c6ja1db8p6nc84fdu8b1.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAFdYU0QIjU_YlZnJ7JXHqmUr9fy48aQtU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>39818828065</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.dscmdis.speak</string>
+	<key>PROJECT_ID</key>
+	<string>speak-65b16</string>
+	<key>STORAGE_BUCKET</key>
+	<string>speak-65b16.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:39818828065:ios:cf6c1cc0ebea28a6578660</string>
+	<key>DATABASE_URL</key>
+	<string>https://speak-65b16.firebaseio.com</string>
+</dict>
+</plist>
