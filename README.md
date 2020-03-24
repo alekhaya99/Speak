@@ -20,7 +20,7 @@ After running the code, user will be navigated to the login page( for existing u
 
 In Singapore, waste management is a big issue. Most of the people don't know which item to dispose/ recycle or reuse. People don't know the nearest recycling centers. Some people like to throw bulky items like furniture in the corridor of the apartments as trash in-spite of it having only about 1% damage. To the person who dispose the item, it might be useless but there are certain people and family who might need that thing.
 
-#### Solution
+### Solution
 
 In order to reduce the waste and promote awarness on reduction of waste, I have developed a Flutter Application. Some of the features in my app include:
 
@@ -35,3 +35,12 @@ If the user is still not sure, then he can upload the image of that product and 
 
 
 Currently we are working on the edit and delete option in the Feed Section, and also the Forgot password option
+
+**Bugs**
+After downloading the file, you might encounter the problem ".iml" file missing.
+
+**Debug**
+In order to fix the above issue, in the Android Studio ==>select the "Project Files" instead of "Project"
+Navigate to the Project Tab in Android Studio and delete ".idea" folder.
+Restart the Android Studio and the issue will be solved.
+
