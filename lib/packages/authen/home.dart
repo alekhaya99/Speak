@@ -162,11 +162,11 @@ class _HomeState extends State<Home> {
                 Navigator.push(
                     context,
                     MaterialPageRoute(
-                      builder: (context) => mp1(title: 'Recycle for Money',),
+                      builder: (context) => mp1(title: 'Recycle for Money Points',),
                     ));
               },
               child: ListTile(
-                title: Text('Recycle for Money'),
+                title: Text('Recycle for Money Points'),
                 leading: Icon(
                   Icons.attach_money,
                   color: Colors.black,
@@ -178,11 +178,11 @@ class _HomeState extends State<Home> {
                 Navigator.push(
                     context,
                     MaterialPageRoute(
-                      builder: (context) => Mp2(title: 'Ewaste'),
+                      builder: (context) => Mp2(title: 'Domestic E-Waste Recycling Points'),
                     ));
               },
               child: ListTile(
-                title: Text('E-Waste Recycling'),
+                title: Text('Domestic E-Waste Recycling Points'),
                 leading: Icon(
                   Icons.phone_android,
                   color: Colors.lightGreenAccent,
@@ -291,7 +291,7 @@ class _HomeState extends State<Home> {
           Padding(
             padding: const EdgeInsets.all(1.0),
             child: Text(
-              'Directory',
+              'Disposal Points (Industrial)',
               style: TextStyle(
                   fontWeight: FontWeight.bold,
                   fontSize: 20,
@@ -315,3 +315,4 @@ _launchURL() async {
     throw 'Could not launch $url';
   }
 }
+
