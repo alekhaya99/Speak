@@ -1,6 +1,6 @@
 # speak
 
-Speak is a Flutter Application to promote recycling in the community of Singapore.
+Speak is a Flutter Application to promote waste reduction in the community of Singapore. In the upcoming years, we not only aiming to expand in Singapore but also in the other parts of the World
 
 ## Getting Started
 
@@ -35,6 +35,9 @@ If the user is still not sure, then he can upload the image of that product and 
 
 
 Currently we are working on the edit and delete option in the Feed Section, and also the Forgot password option
+
+The app was also tested by the engineers of National Enviorment Agency of Singapore (NEA). We have collected their feedback and trying to improve on the things they have mentioned.
+
 ### Problems which you might face after downloading 
 **Bugs**
 After downloading the file, you might encounter the problem ".iml" file missing.
