@@ -35,7 +35,7 @@ If the user is still not sure, then he can upload the image of that product and 
 
 
 Currently we are working on the edit and delete option in the Feed Section, and also the Forgot password option
-
+### Problems which you might face after downloading 
 **Bugs**
 After downloading the file, you might encounter the problem ".iml" file missing.
 
