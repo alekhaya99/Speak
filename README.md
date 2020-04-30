@@ -16,6 +16,10 @@ Please navigate to the Google Photo link for the pictures : https://photos.app.g
 
 After running the code, user will be navigated to the login page( for existing user: please key in with your existing email and password, For new user: Please click on "Click here to Register", after that key in your details and click on register to speak.Successfull login or registered user will be navigated to the home page).
 
+You can also use the following credential to login:
+**Email** : test@dscmdis.com
+**Password** : test123
+
 ### Problem
 
 In Singapore, waste management is a big issue. Most of the people don't know which item to dispose/ recycle or reuse. People don't know the nearest recycling centers. Some people like to throw bulky items like furniture in the corridor of the apartments as trash in-spite of it having only about 1% damage. To the person who dispose the item, it might be useless but there are certain people and family who might need that thing.
