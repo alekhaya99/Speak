@@ -47,3 +47,5 @@ In order to fix the above issue, in the Android Studio ==>select the "Project Fi
 Navigate to the Project Tab in Android Studio and delete ".idea" folder.
 Restart the Android Studio and the issue will be solved.
 
+Check out the video of the bug and solution here: https://photos.app.goo.gl/N13r3qYEizRcofDs9
+
