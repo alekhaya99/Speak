@@ -1,6 +1,6 @@
 # speak
 
-Speak is a Flutter Application to promote waste reduction in the community of Singapore. In the upcoming years, we not only aiming to expand in Singapore but also in the other parts of the World
+Speak is a Flutter Application to promote waste reduction in the community of Singapore. In the upcoming years, we not only aiming to expand in Singapore but also in the other parts of the World. We started to code from early Febuary and the 1st prototype was released for testing in end March 2020.
 
 ## Getting Started
 
